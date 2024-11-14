@@ -20,7 +20,7 @@ Tenho investido no desenvolvimento de habilidades em análise de dados para apro
 
 ***
 
-<h3 align="left"> Me contate: </h3>
+<h3 align="left"> Contatos: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lorenaminsoni" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
