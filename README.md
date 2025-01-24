@@ -1,6 +1,6 @@
 ## ➛ Sobre mim
 
-Sou estudante de Ciência da Computação, e atualmente estou atuando na área de suporte help desk. <br>
+Sou estudante de Ciência da Computação, e atualmente estou atuando profissionalmente na área de suporte help desk. <br>
 
 Tenho investido no desenvolvimento de habilidades em análise de dados para aprofundar minha compreensão e meu desempenho profissional. Por isso, tenho realizado cursos em ferramentas como Power BI, SQL e Excel.<br>
 
