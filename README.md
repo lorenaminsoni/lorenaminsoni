@@ -1,26 +1,26 @@
-## ➛ Sobre mim
+## About Me
 
-Sou estudante de Ciência da Computação, e atualmente estou atuando profissionalmente na área de suporte help desk. <br>
+I am a Computer Science student, and I am currently working professionally in the Data Analysis field. <br>
 
-Tenho investido no desenvolvimento de habilidades em análise de dados para aprofundar minha compreensão e meu desempenho profissional. Por isso, tenho realizado cursos em ferramentas como Power BI, SQL e Excel.<br>
+I have been investing in developing skills in Data Analysis to deepen my understanding and professional performance. For this reason, I have taken courses in tools such as Power BI, SQL, and Excel.<br>
 
-***
+****
 
-## ➛ Formações Acadêmicas
+## Academic Background
 
-- Técnico: Publicidade e Propaganda | Colégio Técnico Univap
-- Formação: Ciência da Computação | Universidade Paulista (UNIP)
+- Technical: Advertising and Marketing | Colégios Univap
+- Bachelor's Degree: Computer Science | Universidade Paulista (UNIP)
 
-***
+****
 
-## ➛ Cursos e Certificados
+## Courses and Certifications
 
 - Power BI Completo - Do Básico ao Avançado | Udemy
 - Imersão Front-End | Alura
 
-***
+****
 
-<h3 align="left"> Contatos: </h3>
+<h3 align="left"> Contacts: </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lorenaminsoni" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -28,5 +28,4 @@ Tenho investido no desenvolvimento de habilidades em análise de dados para apro
 <a href="mailto:lorenaminsoni@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
 </p>
