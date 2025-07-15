@@ -5,7 +5,22 @@ I am a Computer Science student, and I am currently working professionally in th
 I have been investing in developing skills in Data Analysis to deepen my understanding and professional performance. For this reason, I have taken courses in tools such as Power BI, SQL, and Excel.<br>
 
 ****
+## Professional Background
 
+- Operational Excellence Intern | Safran Cabin Brazil
+  March 2025 – Present | 5 months
+
+  -> Supporting process improvement initiatives using data analysis tools.
+  -> Working with SQL databases and developing dashboards in Microsoft Power BI.
+  -> Collaborating with cross-functional teams to identify performance gaps and propose solutions.
+
+- Information Technology Intern | Safran Cabin Brazil
+  November 2023 – March 2025 | 1 year 5 months
+
+  -> Provided Help Desk support for internal users, resolving technical issues related to hardware and software.
+  -> Assisted in maintaining IT infrastructure and improving user satisfaction.
+
+****
 ## Academic Background
 
 - Technical: Advertising and Marketing | Colégios Univap
