@@ -10,15 +10,15 @@ I have been investing in developing skills in Data Analysis to deepen my underst
 - Operational Excellence Intern | Safran Cabin Brazil
   March 2025 – Present | 5 months
 
-  -> Supporting process improvement initiatives using data analysis tools.
-  -> Working with SQL databases and developing dashboards in Microsoft Power BI.
-  -> Collaborating with cross-functional teams to identify performance gaps and propose solutions.
+  -> Supporting process improvement initiatives using data analysis tools. <br>
+  -> Working with SQL databases and developing dashboards in Microsoft Power BI. <br>
+  -> Collaborating with cross-functional teams to identify performance gaps and propose solutions. <br>
 
 - Information Technology Intern | Safran Cabin Brazil
   November 2023 – March 2025 | 1 year 5 months
 
-  -> Provided Help Desk support for internal users, resolving technical issues related to hardware and software.
-  -> Assisted in maintaining IT infrastructure and improving user satisfaction.
+  -> Provided Help Desk support for internal users, resolving technical issues related to hardware and software. <br>
+  -> Assisted in maintaining IT infrastructure and improving user satisfaction. <br>
 
 ****
 ## Academic Background
