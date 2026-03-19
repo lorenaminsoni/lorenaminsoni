@@ -13,8 +13,11 @@ Driven by clarity, impact, and continuous learning. <br>
 ****
 ## Professional Background
 
+- Business Data Analyst| Safran Cabin Brazil <br>
+  October 2025 – Present  <br>
+
 - Operational Excellence Intern | Safran Cabin Brazil <br>
-  March 2025 – Present  <br>
+  March 2025 – September 2025  <br>
 
   -> Supporting process improvement initiatives using data analysis tools. <br>
   -> Working with SQL databases and developing dashboards in Microsoft Power BI. <br>
