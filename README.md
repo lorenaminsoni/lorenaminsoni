@@ -1,8 +1,14 @@
 ## About Me
 
-I am a Computer Science student, and I am currently working professionally in the Data Analysis field. <br>
+I am currently pursuing a Bachelor’s Degree in Computer Science and building my career in Business Data Analysis. <br>
 
-I have been investing in developing skills in Data Analysis to deepen my understanding and professional performance. For this reason, I have taken courses in tools such as Power BI, SQL, and Excel.<br>
+My main area of expertise is understanding business needs and translating them into valuable, clear, and creative data visualizations that support decision-making. I work closely with stakeholders to ensure data accurately represents business processes. <br>
+
+In scenarios where data cannot be processed or structured through datalakes, I specialize in handling and preparing data directly in SQL — building optimized queries and transformations before modeling and visualizing the data in Power BI. This approach ensures consistency, performance, and reliable insights even in more constrained data environments. <br>
+
+I began my career in IT support, which provided a strong foundation in problem-solving, analytical thinking, and a user-focused mindset. Today, I apply these skills to support process improvement through data analysis. <br>
+
+Driven by clarity, impact, and continuous learning. <br>
 
 ****
 ## Professional Background
